@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 like tiger
+=======
+tiger like
+>>>>>>> tiger
