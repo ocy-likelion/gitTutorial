@@ -6,3 +6,4 @@ tiger like
 
 push를 확인해보자
 pull 확인해보자!
+충돌을 생각해보자 2
