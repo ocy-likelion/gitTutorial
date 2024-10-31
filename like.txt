@@ -5,3 +5,4 @@ tiger like
 >>>>>>> tiger
 
 push를 확인해보자
+pull 확인해보자!
