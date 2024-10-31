@@ -3,3 +3,5 @@ like tiger
 =======
 tiger like
 >>>>>>> tiger
+
+push를 확인해보자
